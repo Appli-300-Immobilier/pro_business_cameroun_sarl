@@ -4,7 +4,7 @@
 - **Company Name:** Pro Business Cameroun Sarl
 - **Directory:** pro_business_cameroun_sarl
 - **Address/Contact:** 
-  - Bonamoussadi, Cameroon � Bonapriso, Cameroon � Akwa, Cameroon � Bepanda, Cameroon
+  - Bonamoussadi, Cameroon é Bonapriso, Cameroon é Akwa, Cameroon é Bepanda, Cameroon
   - 
   - +237 6 52 00 03 38
   - 
